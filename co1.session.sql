@@ -1,1 +1,1 @@
-describe website_employee;
+select * from website_employee;
