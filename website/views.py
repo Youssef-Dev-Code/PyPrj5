@@ -4,5 +4,5 @@ from django.contrib import messages
 from .models import *
 
 def index(request):
-    context = dict() 
+    context = dict()
     return render(request=request, template_name= "index.html", context= context)

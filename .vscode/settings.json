@@ -11,7 +11,8 @@
             "driver": "MySQL",
             "name": "co1",
             "database": "prj5db",
-            "username": "root"
+            "username": "root",
+            "askForPassword": true
         }
     ]
 }
