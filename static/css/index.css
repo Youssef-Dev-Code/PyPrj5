@@ -33,3 +33,13 @@ body{
 #user-Face{
     width: 100%;
 }
+@media (max-width: 1000px){
+    #user-Face{
+        width: 20%;
+    }
+}
+@media (max-width: 400px){
+    #user-Face{
+        width: 35%;
+    }
+}
