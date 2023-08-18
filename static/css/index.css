@@ -1,3 +1,35 @@
 body{
-    background-color: aqua !important;
+    background-color: rgb(187, 210, 209) !important;
+}
+
+.navbar-brand{
+    color: rgb(6, 35, 33) !important;
+}
+
+#Input-Echelon{
+    width: 70% !important;
+}
+#Input-Matricule{
+    width: 70% !important;
+}
+#Input-CIN{
+    width: 70% !important;
+}
+#Input-N-Enfants{
+    width: 50% !important;
+}
+#exampleRadios1{
+    margin-left: 70%;
+}
+#exampleRadios2{
+    margin-left: 70%;
+}
+#exampleRadios3{
+    margin-left: 70%;
+}
+#exampleRadios4{
+    margin-left: 70%;
+}
+#user-Face{
+    width: 100%;
 }
